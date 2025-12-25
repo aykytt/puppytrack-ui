@@ -16,6 +16,7 @@ Design handoff is done via:
 - Written component documentation in this repository
 
 ## Components
-- Button (completed)
+- [Button](components/button) (completed)
+
 
 More components will be added incrementally.
