@@ -40,4 +40,4 @@ This document describes the Button component used in PuppyTrack.
 - Disabled state is non-interactive
 
 ## Figma
-PASTE_FIGMA_LINK_HERE
+](https://www.figma.com/design/rDSx5lPyeMNFHmftZQTj25/Puppy-Track-Design-System?node-id=18-64&t=DkvTgOEG4TfiM7YI-1)
